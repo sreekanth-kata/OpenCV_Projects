@@ -1,7 +1,7 @@
 # OpenCV_Projects
 The contains several opencv project for image processing
 
-Pojects
+Projects
 
 1. colorspace
 * provide a image utility for writing png and other 16 bit images read using opencv and written in the format 16 bit P5 Grayscale binary image
